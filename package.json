@@ -1,0 +1,25 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "Node crawler ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hscgavin/node-crawler.git"
+  },
+  "author": "Gavin He",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hscgavin/node-crawler/issues"
+  },
+  "homepage": "https://github.com/hscgavin/node-crawler#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.3",
+    "superagent": "^3.8.3",
+    "superagent-charset": "^1.2.0"
+  }
+}
