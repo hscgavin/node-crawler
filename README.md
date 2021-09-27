@@ -16,7 +16,7 @@ e.g. localhost:8081/index?page=3
 
 Example data
 
-```json
+```js
 {
   code: 200,
   data: [
